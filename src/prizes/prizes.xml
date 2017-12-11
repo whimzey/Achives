@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<prizes>
+
+  <prize>
+  <name>Кружка</name>
+  <image>aplana.png</image>
+  <price>1</price>
+  <description>Бреднированная кружка с логотипом "Апланы"</description>
+  </prize>
+
+  <prize>
+  <name>Оплачиваемый выходной</name>
+  <image>aplana.png</image>
+  <price>2</price>
+  <description>День оговаривается с руководителем проекта</description>
+  </prize>
+
+  <prize>
+  <name>Корона</name>
+  <image>aplana.png</image>
+  <price>3</price>
+  <description>Корона из бумаги, дизайн - на ваш вкус</description>
+  </prize>
+
+  <prize>
+  <name>Похвала от начальства</name>
+  <image>aplana.png</image>
+  <price>4</price>
+  <description>На самом деле, это бесценно</description>
+  </prize>
+
+  <prize>
+  <name>Премия</name>
+  <image>aplana.png</image>
+  <price>5</price>
+  <description>Единовременная выплата в размере 10 микротугриков</description>
+  </prize>
+
+</prizes>

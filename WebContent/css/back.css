@@ -1,0 +1,101 @@
+@CHARSET "UTF-8";
+
+ body {
+   background-color: rgba(255, 193, 7, 0.7) !important;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center; 
+
+}
+
+.b-popup{
+    width:100%;
+    min-height:100%;
+    background-color: rgba(0,0,0,0.5);
+    overflow:hidden;
+   position:absolute;
+    top:0px;
+    left:0px;
+}
+.b-popup .b-popup-content{
+    margin: 200px auto;
+    width:300px;
+    text-align:center;
+    padding:20px;
+    background-color: #ffffff;
+    border-radius:2px;
+    font-color:black;
+    box-shadow: 0.3em 0.4em 2px rgba(122,122,122,0.3);
+    
+}
+ 
+#top{
+	
+	background-color: #FFA000;
+  width: 100%;
+    height: 5%;
+
+}
+
+#header{
+
+background-color: #FFA000;
+  width: 100%;
+   height: 70px;
+
+text-align: center;
+ display: flex;
+    
+}
+
+ #achives1{
+min-height: 300px;    
+  
+font-family: verdana, sans-serif; 
+ width:43%;
+ float:left;
+ margin-bottom: 20px;
+
+}
+#achives{
+	height: 100%;
+background-color:white;
+font-family: verdana, sans-serif; 
+border-radius: 2px;
+box-shadow: 0.3em 0.4em 2px rgba(122,122,122,0.3);
+width: 60%;
+display: block;
+font-size: 13px;
+
+margin-top: 20px;
+
+}
+
+ #prizes{
+ min-height: 220px;
+width: 200px;
+      margin: 10px;
+  padding: 1em;
+   box-shadow: 0 0 5px 2px rgba(221, 221, 221, 1);
+ 
+font-family: verdana, sans-serif; 
+font-size: 12px;
+float:left;
+display: flex;
+    
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+#footer{
+width:100%;
+	height: 20px;
+	background-color: #FFA000;
+	color:white;
+	font-family: verdana, sans-serif; 
+font-size:11px;
+}
